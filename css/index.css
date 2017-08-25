@@ -1,0 +1,17 @@
+#main {
+    width: 100%;
+    font-family: arial, sans-serif;
+    color: #555555;
+    font-size: 12px;
+    height: 100%;
+}
+.content-area {
+    width: 900px;
+    margin: 5% auto;
+    padding: 1%;
+}
+
+.scroll_pane_m_content {
+    text-align: center;
+    overflow-y: scroll;
+}

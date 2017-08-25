@@ -59,3 +59,15 @@
     -moz-box-shadow: 0px 2px 4px rgba(50, 50, 50, 0.49);
     box-shadow: 0px 2px 4px rgba(50, 50, 50, 0.49);
 }
+.g_search_box {
+    background: url("data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw%3D%3D");
+    margin: 0px;
+    padding: 0px 1px;
+    border: currentColor;
+    border-image: none;
+    left: 0px;
+    width: 100%;
+    height: auto;
+    position: absolute;
+    z-index: 6;
+}
