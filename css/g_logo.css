@@ -16,3 +16,6 @@
     border: 0;
     z-index: -512;
 }
+#space {
+    width: 4em;
+}
