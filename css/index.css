@@ -15,3 +15,10 @@
     text-align: center;
     overflow-y: scroll;
 }
+
+.pull-left {
+    float: left;
+}
+.pull-right {
+    float; right;
+}
