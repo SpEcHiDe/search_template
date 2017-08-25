@@ -1,0 +1,57 @@
+.fixedlocation a{
+  text-decoration: none;
+  /*padding-right: 1em;*/
+  color: #337ab7;
+}
+.fixedlocation p{
+  text-decoration: none;
+  margin: 0;
+  line-height: 0;
+  font-size: 1.5em;
+  color: #337ab7;
+}
+.fixedlocation {
+  position: fixed;
+  background: none repeat scroll 0% 0% rgba(0, 0, 0, 0.8);
+  color: #fff;
+  width: 100%;
+  /*left: 0em;*/
+  padding: 1em;
+  text-align: center;
+  opacity: 0.8;
+}
+
+#cookiewarning {
+  top: 0em;
+}
+#contactme {
+  bottom: 0em;
+}
+#leftside {
+    left: -60em;
+    padding-left: 10em;
+    /* Safari */
+    -webkit-transform: rotate(-90deg);
+    /* Firefox */
+    -moz-transform: rotate(-90deg);
+    /* IE */
+    -ms-transform: rotate(-90deg);
+    /* Opera */
+    -o-transform: rotate(-90deg);
+    /* Internet Explorer */
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}
+#rightside {
+    left: 50em;
+    padding-right: 10em;
+    /* Safari */
+    -webkit-transform: rotate(90deg);
+    /* Firefox */
+    -moz-transform: rotate(90deg);
+    /* IE */
+    -ms-transform: rotate(90deg);
+    /* Opera */
+    -o-transform: rotate(90deg);
+    /* Internet Explorer */
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
+}

@@ -1,0 +1,18 @@
+.dp { 
+    height:240px;
+    width:240px;
+    border-radius:100%;
+    border:3px solid #000;
+    margin: 0 auto;
+    position: absolute;
+    left:35%;
+    opacity: 0.35;
+    z-index: -256;
+}
+.logo {
+    text-align: center;
+}
+.logo img {
+    border: 0;
+    z-index: -512;
+}
